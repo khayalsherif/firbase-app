@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729669159504",
+    "project_id": "firbase-app-6b8b3",
+    "storage_bucket": "firbase-app-6b8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729669159504:android:3f5bb1ed86c0a53ffbdf55",
+        "android_client_info": {
+          "package_name": "az.khayalsharifli.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729669159504-eihnfh96nsj5e341nuqjhb7nu3aq2ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BY0y1ea2OZONbqDnD33XVCBGmvo3qEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729669159504-eihnfh96nsj5e341nuqjhb7nu3aq2ors.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
